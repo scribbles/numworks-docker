@@ -1,6 +1,6 @@
 # numworks-docker
 
-Builds a container based on ```nginx:alpine-latest``` to locally run the Numworks calculator on [localhost:80](http://localhost). Starting from empty dir:
+Build and run a container based on ```nginx:mainline-alpine``` to locally run the [Numworks](https://www.numworks.com/) graphing calculator on [localhost:80](http://localhost/).
 
 ```
 git clone https://github.com/scribbles/numworks-docker.git .
